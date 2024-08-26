@@ -1,2 +1,2 @@
 # demo
-clone of amazon website using Html,Css
+clone of amazon website using Html,Css language
